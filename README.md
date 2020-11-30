@@ -1,4 +1,4 @@
-# WEB 开发基础知识
+# react 基础练习
 
 [git 基础](./git-basics.md)
 
